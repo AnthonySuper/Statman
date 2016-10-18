@@ -1,0 +1,3 @@
+module Statman
+  # Your code goes here...
+end
